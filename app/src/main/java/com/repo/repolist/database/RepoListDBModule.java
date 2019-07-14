@@ -2,8 +2,8 @@ package com.repo.repolist.database;
 
 import android.arch.persistence.room.Room;
 import android.content.Context;
-import com.repo.repolist.Repository.RepoListDataSource;
-import com.repo.repolist.Repository.RepoListRepository;
+import com.repo.repolist.repository.RepoListDataSource;
+import com.repo.repolist.repository.RepoListRepository;
 import com.repo.repolist.viewModel.HomeViewModel;
 import dagger.Module;
 import dagger.Provides;

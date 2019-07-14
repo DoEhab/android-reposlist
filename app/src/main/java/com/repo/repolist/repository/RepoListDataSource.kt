@@ -1,12 +1,9 @@
-package com.repo.repolist.Repository
+package com.repo.repolist.repository
 
 import com.repo.repolist.database.RepoListDao
 import com.repo.repolist.model.UserRepoData
 import com.repo.repolist.viewModel.HomeViewModel
 import io.reactivex.Flowable
-import org.intellij.lang.annotations.Flow
-import java.util.ArrayList
-import javax.inject.Inject
 
 /**
  * Created by Doha on 13/07/19.

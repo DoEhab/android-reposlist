@@ -11,14 +11,12 @@ import com.nostra13.universalimageloader.core.ImageLoader
 import com.repo.repolist.ReposListApplication
 import com.repo.repolist.adapter.RepoDataAdapter
 import com.repo.repolist.R
-import com.repo.repolist.viewModel.HomeViewModel
 import io.reactivex.disposables.CompositeDisposable
 import kotlinx.android.synthetic.main.fragment_home.*
-import java.util.ArrayList
 import javax.inject.Inject
 import android.content.Intent
 import android.net.Uri
-import com.repo.repolist.Repository.RepoListRepository
+import com.repo.repolist.repository.RepoListRepository
 import com.repo.repolist.model.UserRepoData
 
 

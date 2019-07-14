@@ -1,9 +1,8 @@
-package com.repo.repolist.Repository;
+package com.repo.repolist.repository;
 
 import com.repo.repolist.model.UserRepoData;
 import io.reactivex.Flowable;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
