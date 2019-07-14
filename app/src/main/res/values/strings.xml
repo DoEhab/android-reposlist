@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Repos List</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="repo_title">Repository title:\u0020</string>
+    <string name="repo_description">Description:\u0020</string>
+    <string name="forks_count">Forks count:\u0020</string>
+    <string name="language">Language:\u0020</string>
+    <string name="repo_creation_date">Created at:\u0020</string>
+    <string name="home_fragment_title">Github repository list</string>
+</resources>
